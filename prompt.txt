@@ -1,0 +1,1 @@
+Meet the Apology Toaster: it prints "Sorry for the delayed response" on your breakfast in case you see someone whose email you've ignored.
